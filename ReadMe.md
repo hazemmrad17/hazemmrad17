@@ -1,16 +1,16 @@
-# 💫 About Me:
+#  About Me:
 
 ## 👋 Hi, I'm Hazem Mrad
 
-🎓 I'm a **first-year engineering cycle student** at **ESPRIT**, currently diving deep into **AI**, **data science**, and **software engineering**.  
-🎨 Outside the classroom, I'm a passionate **graphic and web designer**. I enjoy blending creativity with technology to craft thoughtful, engaging digital experiences.
+ I'm a **first-year engineering cycle student** at **ESPRIT**, currently diving deep into **AI**, **data science**, and **software engineering**.  
+ Outside the classroom, I'm a passionate **graphic and web designer**. I enjoy blending creativity with technology to craft thoughtful, engaging digital experiences.
 
 ### 🌍 Let's Connect
-- [🔗 LinkedIn](https://www.linkedin.com/in/hazemmrad)  
-- [🎨 Behance](https://www.behance.net/hazemmrad)  
-- [📧 Email](mailto:hazem.mrad@esprit.tn)  
-- [💬 Discord Server](https://discord.gg/hazicore)  
-- [📘 Facebook](https://www.facebook.com/Hazem05Mrad786/)  
+- [ LinkedIn](https://www.linkedin.com/in/hazemmrad)  
+- [ Behance](https://www.behance.net/hazemmrad)  
+- [ Email](mailto:hazem.mrad@esprit.tn)  
+- [ Discord Server](https://discord.gg/hazicore)  
+- [ Facebook](https://www.facebook.com/Hazem05Mrad786/)  
 
 ---
 
