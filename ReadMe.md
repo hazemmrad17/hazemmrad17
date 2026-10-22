@@ -2,31 +2,34 @@
 
 ## 👋 Hi, I'm Hazem Mrad
 
-I'm a **final-year Data Science & AI engineering student** at **ESPRIT**, focused on **Generative AI**, **machine learning**, and building systems that actually ship, not just demo.
+I'm a **final-year Data Science & AI engineering student** at **ESPRIT**, working as a **Forward Deployed AI Engineer** — focused on **Generative AI**: RAG, agents, LLM integration, and evals, wired into full-stack products that actually ship, not just demo.
+
 
 Outside the core AI/ML work, I have a background in graphic and web design, I like blending clean engineering with good UX when I build things end to end.
 
+
 ### 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hazemmrad)
-- [Behance](https://www.behance.net/hazemmrad)
-- [Email](mailto:hazem.mrad@esprit.tn)
 - [Portfolio](https://hazemmrad-io.vercel.app)
+- [Email](mailto:hazem.mrad@esprit.tn)
+
 
 ---
 
+
 # 💻 Tech Stack:
+
 
 ### AI / ML
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Web & App Dev
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,7 +45,9 @@ Outside the core AI/ML work, I have a background in graphic and web design, I li
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
+
 ---
+
 
 _"Where logic meets creativity."_
 
